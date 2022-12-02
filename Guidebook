@@ -1,0 +1,10 @@
+The following repository contains links from various DSA platforms to practise
+
+The procedure to learn 
+There is a google sheet that contains the problems where you can learn and solve them on the particular platform such as HackerRank, Leetcode
+
+Once the code is running successfully, you need to copy the code and in the github you move to the folder such as HR for HackRank and create a file there,
+the file name should be the problem name you solved on the website and paste the code in the file created
+and then commit the changes
+
+Maintain the consistency, 1 problem a day
